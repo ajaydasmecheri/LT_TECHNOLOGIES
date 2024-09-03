@@ -1,0 +1,32 @@
+[
+  {
+  "id": "iphone11",
+  "productname":"iphone11",
+  "price":"39499",
+  "description":"must used phone",
+  "review":"good",
+  "rating":"5"
+  "image":"image"
+
+},
+  {
+  "id": "iphone12",
+  "productname":"iphone12",
+  "price":"49499",
+  "description":"must used phone",
+  "review":"good",
+  "rating":"5"
+  "image":"image"
+
+},
+  {
+  "id": "iphone13",
+  "productname":"iphone",
+  "price":"59499",
+  "description":"must used phone",
+  "review":"good",
+  "rating":"5"
+  "image":"image"
+
+}
+]
